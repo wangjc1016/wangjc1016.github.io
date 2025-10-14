@@ -32,7 +32,7 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Preview-FutureGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/Preview-FutureGS.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   [FutureGS: Structured Gaussian Fields for Future-Aware Dynamic Scene Modeling](https://wangjc1016.github.io/)
@@ -44,7 +44,7 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Preview-GF-GSSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DLCV 2025</div><img src='images/Preview-GF-GSSR.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   [GF-GSSR: Gradient Fused Gaussian Splatting Super-Resolution](https://ieeexplore.ieee.org/abstract/document/11088585)
@@ -84,7 +84,6 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.06 - 2025.10*, [MIL](https://mil.hdu.edu.cn/), Hangzhou Dianzi University, Hangzhou. <img src="https://bark.toycar.com.cn/UaUWPzj2Kubs32kRLHMvhA/访问通知/有人访问了你的学术主页.jpg">
-
+- *2023.06 - 2025.10*, [MIL](https://mil.hdu.edu.cn/), Hangzhou Dianzi University, Hangzhou.
 
 
