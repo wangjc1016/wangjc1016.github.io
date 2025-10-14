@@ -28,8 +28,7 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 The paper 《FutureGS》, with me as a coauthor, has been accepted to ACMMM 2025.
 
 # 📝 Publications 
 
@@ -48,11 +47,11 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Preview-GF-GSSR.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
-  [GF-GSSR: Gradient Fused Gaussian Splatting Super-Resolution](https://wangjc1016.github.io/)
+  [GF-GSSR: Gradient Fused Gaussian Splatting Super-Resolution](https://ieeexplore.ieee.org/abstract/document/11088585)
 
   **Jiachen Wang**, Luocheng Zhang, Yi Ding, Zhan Wang, Mingyang Ding, Jifa He, Liqi Yan
 
-  [**Project**](https://wangjc1016.github.io/)
+  [**Project**](https://ieeexplore.ieee.org/abstract/document/11088585)
   </div>
 </div>
 
