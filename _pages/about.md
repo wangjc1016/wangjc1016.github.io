@@ -84,8 +84,7 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.06 - 2025.10*, [MIL](https://mil.hdu.edu.cn/), Hangzhou Dianzi University, Hangzhou.
+- *2023.06 - 2025.10*, [MIL](https://mil.hdu.edu.cn/), Hangzhou Dianzi University, Hangzhou. <img src="https://bark.toycar.com.cn/UaUWPzj2Kubs32kRLHMvhA/访问通知/有人访问了你的学术主页.jpg">
 
 
 
-<img src="https://bark.toycar.com.cn/UaUWPzj2Kubs32kRLHMvhA/访问通知/有人访问了你的学术主页.jpg">
