@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiachen Wang’s Homepage"
-description              : "Jiachen Wang's personal academic homepage "
+description              : "Undergraduate of Hangzhou Dianzi University"
 repository               : "wangjc1016/wangjc1016.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiachen Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/my-photo.jpg"
   bio              : "Hangzhou Dianzi University"
   location         : "Hangzhou, China"
   employer         :
