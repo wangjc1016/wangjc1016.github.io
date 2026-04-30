@@ -26,11 +26,35 @@ I am Jiachen Wang, an undergraduate student majoring in Computer Science and Tec
 
 I am always eager to explore new challenges, engage in meaningful collaborations, and push the boundaries of AI-driven technology. If you are interested in collaborating on research, discussing innovative ideas, or simply connecting, feel free to reach out!
 
-
+<!--
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 The paper 《FutureGS》, with me as a coauthor, has been accepted to ACMMM 2025.
+-->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT</div><img src='images/Preview-SVLGaussian.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [SVLGaussian: Single View Language Gaussian Splatting](https://wangjc1016.github.io)
+
+  **Jiachen Wang**, Mingyang Ding, Min Tan, Luocheng Zhang, Jingrui Fan, Wenwen Pan, Zhou Yu, Jiajun Ding
+
+  [**Project**](https://wangjc1016.github.io)
+  </div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/Preview-A4DLGS.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  [Anticipated 4D Language Gaussian Splatting](https://wangjc1016.github.io)
+
+  Jiajun Ding, Ying Ren, Zhijie Wang, **Jiachen Wang**, Chenhao Shi, Yufei Yin, Min Tan, Zhou Yu
+
+  [**Project**](https://wangjc1016.github.io)
+  </div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/Preview-FutureGS.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -71,7 +95,7 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship
-- *2025.5* Finalist - MCM/ICM
+- *2025.05* Finalist - MCM/ICM
 - *2024.11* National Outstanding Project – National College Student Innovation and Entrepreneurship Program
 - *2024.10* National Scholarship
 - *2023.10* Zhejiang Provincial Government Scholarship
