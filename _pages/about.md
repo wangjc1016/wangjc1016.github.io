@@ -56,7 +56,7 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/Preview-FutureGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVM</div><img src='images/Preview-FutureGS.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   [FutureGS: Structured Gaussian Fields for Future-Aware Dynamic Scene Modeling](https://dl.acm.org/doi/abs/10.1145/3746027.3755428)
@@ -108,6 +108,7 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2025.10 - now*, [Digital media Computing & Design Lab](https://www.cs.zju.edu.cn/_upload/article/files/d4/45/e46a2ca6469693738d84d1fffc3f/cc70a9ee-44ce-4603-9e46-701564a0eb2a.pdf), Zhejiang University, Hangzhou.
 - *2023.06 - 2025.10*, [MIL](https://mil.hdu.edu.cn/), Hangzhou Dianzi University, Hangzhou.
 
 
