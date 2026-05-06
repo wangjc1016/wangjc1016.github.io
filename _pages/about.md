@@ -44,7 +44,7 @@ I am always eager to explore new challenges, engage in meaningful collaborations
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/Preview-A4DLGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVM</div><img src='images/Preview-A4DLGS.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   [Anticipated 4D Language Gaussian Splatting](https://wangjc1016.github.io)
@@ -56,7 +56,7 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVM</div><img src='images/Preview-FutureGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/Preview-FutureGS.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   [FutureGS: Structured Gaussian Fields for Future-Aware Dynamic Scene Modeling](https://dl.acm.org/doi/abs/10.1145/3746027.3755428)
