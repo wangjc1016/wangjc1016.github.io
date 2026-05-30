@@ -36,11 +36,11 @@ I am always eager to explore new challenges, engage in meaningful collaborations
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT</div><img src='images/Preview-SVLGaussian.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
-  [SVLGaussian: Single View Language Gaussian Splatting](https://wangjc1016.github.io)
+  [SVLGaussian: Single View Language Gaussian Splatting](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.70148)
 
   **Jiachen Wang**, Mingyang Ding, Min Tan, Luocheng Zhang, Jingrui Fan, Wenwen Pan, Zhou Yu, Jiajun Ding
 
-  [**Project**](https://wangjc1016.github.io)
+  [**Project**](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.70148)
   </div>
 </div>
 
